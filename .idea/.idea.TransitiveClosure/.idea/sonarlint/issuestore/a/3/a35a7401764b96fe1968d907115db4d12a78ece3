@@ -1,0 +1,6 @@
+
+gcsharpsquid:S101"KRename class 'BFS' to match pascal case naming rules, consider using 'Bfs'.(çò–
+{csharpsquid:S1450"WRemove the field '_visited' and declare it as a local variable in the relevant methods.(ÜÅ‰8æ¹ùŞÌ0
+xcsharpsquid:S1450	"URemove the field '_queue' and declare it as a local variable in the relevant methods.(÷ø›8´ºûŞÌ0
+qcsharpsquid:S2696"HRemove this set, which updates a 'static' field from an instance method.(¯´®ˆøÿÿÿÿ8´ºûŞÌ0
+lcsharpsquid:S2696"HRemove this set, which updates a 'static' field from an instance method.(ï»ÆŠ8¶ÎúŞÌ0
